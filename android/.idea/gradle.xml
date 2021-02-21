@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../Dart/gradle-6.8.2" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/clipboard_manager-0.0.4/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-1.4.4+2/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/hardware_buttons-1.0.0/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/open_appstore-1.0.2/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.4+3/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.8/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.5.0/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

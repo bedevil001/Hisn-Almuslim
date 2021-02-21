@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-949148964/android.clipboard_manager.iml" filepath="$PROJECT_DIR$/.idea/modules/-949148964/android.clipboard_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1146015563/android.flutter_local_notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/-1146015563/android.flutter_local_notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1940229435/android.hardware_buttons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1940229435/android.hardware_buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/424164300/android.open_appstore.iml" filepath="$PROJECT_DIR$/.idea/modules/424164300/android.open_appstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/387612581/android.share.iml" filepath="$PROJECT_DIR$/.idea/modules/387612581/android.share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2076001349/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/2076001349/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-273392172/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-273392172/android.url_launcher.iml" />
+    </modules>
+  </component>
+</project>
